@@ -1,0 +1,78 @@
+.navbar {
+    background-color: #4b367c;
+    color: white;
+    display: inline-block
+}
+
+.searchbutton {
+    background: #570be4 !important;
+    border: 1px solid transparent !important;
+    border-radius: 4px !important;
+    color: #fff !important;
+}
+
+.link {
+    color: #b19dd8;
+}
+
+.link:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+.block {
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.truncate {
+    width: 335px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: black;
+    text-decoration: none;
+  }
+
+  .truncate:hover {
+      text-decoration: none;
+      color: #b19dd8;
+  }
+
+  .truncate-game {
+    width: 160px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: black;
+    text-decoration: none;
+  }
+
+  .truncate-game:hover {
+      text-decoration: none;
+      color: #b19dd8;
+  }
+
+  .popover {
+      width: 200px;
+  }
+
+  .logo {
+      fill: white;
+  }
+
+  .title {
+    font-weight: bold;
+  }
+
+  .login {
+    background-color: #b19dd8;
+    float: right;
+}
+
+.login:hover {
+    color: white;
+    text-decoration: none;
+}
